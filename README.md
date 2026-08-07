@@ -6,7 +6,6 @@ NocoBase 2.x 钉钉扫码登录插件（DingTalk scan-code login plugin）。
 - 兼容钉钉**新旧两代接口**：新版 OpenAPI v1.0（`api.dingtalk.com/v1.0/...`）+ 旧版 topapi（`oapi.dingtalk.com/topapi/...`）
 - 功能：钉钉扫码登录（OAuth 2.0 授权码模式）、用户自动注册、多方式用户匹配（组织邮箱 / 个人邮箱 / 手机号）
 
-> 本插件基于社区插件 [nocobase-plugins](https://github.com/ruanjf/nocobase-plugins) 的钉钉登录模块重新开发，全新适配 NocoBase 2.x 双客户端（v1 + v2）。
 
 ## 特性
 
