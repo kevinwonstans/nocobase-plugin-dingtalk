@@ -1,0 +1,12 @@
+{
+  "DingTalk login (scan)": "钉钉登录(扫码)",
+  "Auto register if user not found": "用户不存在时自动注册",
+  "User match type": "用户匹配方式",
+  "Organization email": "组织邮箱",
+  "Personal email": "个人邮箱",
+  "Mobile": "手机号",
+  "Email domains, separated by commas": "邮箱域名，多个用逗号分隔",
+  "AppKey": "应用ID",
+  "AppSecret": "应用密钥",
+  "DingTalk": "钉钉"
+}

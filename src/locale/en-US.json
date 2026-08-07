@@ -1,0 +1,12 @@
+{
+  "DingTalk login (scan)": "DingTalk login (scan)",
+  "Auto register if user not found": "Auto register if user not found",
+  "User match type": "User match type",
+  "Organization email": "Organization email",
+  "Personal email": "Personal email",
+  "Mobile": "Mobile",
+  "Email domains, separated by commas": "Email domains, separated by commas",
+  "AppKey": "AppKey",
+  "AppSecret": "AppSecret",
+  "DingTalk": "DingTalk"
+}
