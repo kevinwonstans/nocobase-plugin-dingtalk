@@ -67,6 +67,17 @@ yarn build nocobase-plugin-dingtalk
 yarn pm enable nocobase-plugin-dingtalk
 ```
 
+### 方式三：后台插件管理器上传（无需命令行）
+
+1. 进入 **设置 → 插件管理器**
+   - v1 界面：`/admin/settings/plugin-manager`
+   - v2 界面：`/v/admin/settings/plugin-manager`
+2. 点击「添加插件」→ 选择「上传插件包」，选择 `nocobase-plugin-dingtalk-1.0.0.tgz`
+3. 等待安装完成，在插件列表中找到 **nocobase-plugin-dingtalk**，点击「启用」
+4. 前往「认证管理」创建钉钉认证器并填写配置（见下文）
+
+> 上传安装后插件包会复制到应用的 `storage/plugins` 目录；升级时在插件管理器中重新上传新版本并在插件详情页点击「更新」即可。
+
 启用后重启应用（或 `yarn dev` 开发模式），登录页即会出现「钉钉」登录按钮（需要先在认证管理中完成配置）。
 
 ## 配置
