@@ -96,7 +96,6 @@ yarn pm enable nocobase-plugin-dingtalk
 | 应用ID（AppKey） | 是 | 钉钉企业内部应用的 AppKey |
 | 应用密钥（AppSecret） | 是 | 钉钉企业内部应用的 AppSecret |
 
-> ⚠️ AppKey / AppSecret 属于敏感信息，请勿提交到代码仓库。
 
 ### 3. 用户匹配逻辑
 
